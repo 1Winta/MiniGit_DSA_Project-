@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MiniGit
 
 MiniGit is a lightweight, custom version control system inspired by Git. It provides essential VCS features—repository initialization, staging, committing, branching, merging, diffing, tagging, and status checks—without external dependencies.
@@ -111,3 +112,5 @@ minigit status
 | `minigit ls-files [--verbose]`           | List entries in the index                      |                              |
 | `minigit rev-parse [--wyag-type] <name>` | Resolve refs/abbrev. SHAs                      |                              |
 | `minigit check-ignore <paths>`           | Check ignore rules against paths               |                              |
+# MiniGit_DSA_Project-
+MiniGit - A lightweight version control system written in C++
