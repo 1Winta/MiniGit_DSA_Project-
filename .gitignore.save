@@ -1,0 +1,23 @@
+
+# Ignore virtual environment
+.venv/
+
+# Python cache and metadata
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# VSCode settings (optional)
+.vscode/
+
+
+
+
+
+
+
+
