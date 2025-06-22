@@ -1,4 +1,165 @@
-<<<<<<< HEAD
+we attached our Github link which includes Documentation, Readme and Demo video inside Demo.md
+   1.Kena Biratu ATE/1342/12
+2.Lina Abdulfetha ATE/7007/12
+3.Winta Ataklti ATE/3676/12
+4.Zufan Elias ATE/0073/12
+5.Yared Assefa ATE/4024/12
+6.Eyuel Mekonnen ATE/9108/13   7.Bereket Tekle ATE/9945/12
+8.Kemal mohmmed ATE/7770/12we attached our Github link which includes Documentation, Readme and Demo video inside Demo.md
+   1.Kena Biratu ATE/1342/12
+2.Lina Abdulfetha ATE/7007/12
+3.Winta Ataklti ATE/3676/12
+4.Zufan Elias ATE/0073/12
+5.Yared Assefa ATE/4024/12
+6.Eyuel Mekonnen ATE/9108/13   7.Bereket Tekle ATE/9945/12
+8.Kemal mohmmed ATE/7770/12we attached our Github link which includes Documentation, Readme and Demo video inside Demo.md
+   1.Kena Biratu ATE/1342/12
+2.Lina Abdulfetha ATE/7007/12
+3.Winta Ataklti ATE/3676/12
+4.Zufan Elias ATE/0073/12
+5.Yared Assefa ATE/4024/12
+6.Eyuel Mekonnen ATE/9108/13   7.Bereket Tekle ATE/9945/12
+8.Kemal mohmmed ATE/7770/12we attached our Github link which includes Documentation, Readme and Demo video inside Demo.md
+   1.Kena Biratu ATE/1342/12
+2.Lina Abdulfetha ATE/7007/12
+3.Winta Ataklti ATE/3676/12
+4.Zufan Elias ATE/0073/12
+5.Yared Assefa ATE/4024/12
+6.Eyuel Mekonnen ATE/9108/13   7.Bereket Tekle ATE/9945/12
+8.Kemal mohmmed ATE/7770/12we attached our Github link which includes Documentation, Readme and Demo video inside Demo.md
+   1.Kena Biratu ATE/1342/12
+2.Lina Abdulfetha ATE/7007/12
+3.Winta Ataklti ATE/3676/12
+4.Zufan Elias ATE/0073/12
+5.Yared Assefa ATE/4024/12
+6.Eyuel Mekonnen ATE/9108/13   7.Bereket Tekle ATE/9945/12
+8.Kemal mohmmed ATE/7770/12we attached our Github link which includes Documentation, Readme and Demo video inside Demo.md
+   1.Kena Biratu ATE/1342/12
+2.Lina Abdulfetha ATE/7007/12
+3.Winta Ataklti ATE/3676/12
+4.Zufan Elias ATE/0073/12
+5.Yared Assefa ATE/4024/12
+6.Eyuel Mekonnen ATE/9108/13   7.Bereket Tekle ATE/9945/12
+8.Kemal mohmmed ATE/7770/12we attached our Github link which includes Documentation, Readme and Demo video inside Demo.md
+   1.Kena Biratu ATE/1342/12
+2.Lina Abdulfetha ATE/7007/12
+3.Winta Ataklti ATE/3676/12
+4.Zufan Elias ATE/0073/12
+5.Yared Assefa ATE/4024/12
+6.Eyuel Mekonnen ATE/9108/13   7.Bereket Tekle ATE/9945/12
+8.Kemal mohmmed ATE/7770/12we attached our Github link which includes Documentation, Readme and Demo video inside Demo.md
+   1.Kena Biratu ATE/1342/12
+2.Lina Abdulfetha ATE/7007/12
+3.Winta Ataklti ATE/3676/12
+4.Zufan Elias ATE/0073/12
+5.Yared Assefa ATE/4024/12
+6.Eyuel Mekonnen ATE/9108/13   7.Bereket Tekle ATE/9945/12
+8.Kemal mohmmed ATE/7770/12we attached our Github link which includes Documentation, Readme and Demo video inside Demo.md
+   1.Kena Biratu ATE/1342/12
+2.Lina Abdulfetha ATE/7007/12
+3.Winta Ataklti ATE/3676/12
+4.Zufan Elias ATE/0073/12
+5.Yared Assefa ATE/4024/12
+6.Eyuel Mekonnen ATE/9108/13   7.Bereket Tekle ATE/9945/12
+8.Kemal mohmmed ATE/7770/12we attached our Github link which includes Documentation, Readme and Demo video inside Demo.md
+   1.Kena Biratu ATE/1342/12
+2.Lina Abdulfetha ATE/7007/12
+3.Winta Ataklti ATE/3676/12
+4.Zufan Elias ATE/0073/12
+5.Yared Assefa ATE/4024/12
+6.Eyuel Mekonnen ATE/9108/13   7.Bereket Tekle ATE/9945/12
+8.Kemal mohmmed ATE/7770/12we attached our Github link which includes Documentation, Readme and Demo video inside Demo.md
+   1.Kena Biratu ATE/1342/12
+2.Lina Abdulfetha ATE/7007/12
+3.Winta Ataklti ATE/3676/12
+4.Zufan Elias ATE/0073/12
+5.Yared Assefa ATE/4024/12
+6.Eyuel Mekonnen ATE/9108/13   7.Bereket Tekle ATE/9945/12
+8.Kemal mohmmed ATE/7770/12we attached our Github link which includes Documentation, Readme and Demo video inside Demo.md
+   1.Kena Biratu ATE/1342/12
+2.Lina Abdulfetha ATE/7007/12
+3.Winta Ataklti ATE/3676/12
+4.Zufan Elias ATE/0073/12
+5.Yared Assefa ATE/4024/12
+6.Eyuel Mekonnen ATE/9108/13   7.Bereket Tekle ATE/9945/12
+8.Kemal mohmmed ATE/7770/12we attached our Github link which includes Documentation, Readme and Demo video inside Demo.md
+   1.Kena Biratu ATE/1342/12
+2.Lina Abdulfetha ATE/7007/12
+3.Winta Ataklti ATE/3676/12
+4.Zufan Elias ATE/0073/12
+5.Yared Assefa ATE/4024/12
+6.Eyuel Mekonnen ATE/9108/13   7.Bereket Tekle ATE/9945/12
+8.Kemal mohmmed ATE/7770/12we attached our Github link which includes Documentation, Readme and Demo video inside Demo.md
+   1.Kena Biratu ATE/1342/12
+2.Lina Abdulfetha ATE/7007/12
+3.Winta Ataklti ATE/3676/12
+4.Zufan Elias ATE/0073/12
+5.Yared Assefa ATE/4024/12
+6.Eyuel Mekonnen ATE/9108/13   7.Bereket Tekle ATE/9945/12
+8.Kemal mohmmed ATE/7770/12we attached our Github link which includes Documentation, Readme and Demo video inside Demo.md
+   1.Kena Biratu ATE/1342/12
+2.Lina Abdulfetha ATE/7007/12
+3.Winta Ataklti ATE/3676/12
+4.Zufan Elias ATE/0073/12
+5.Yared Assefa ATE/4024/12
+6.Eyuel Mekonnen ATE/9108/13   7.Bereket Tekle ATE/9945/12
+8.Kemal mohmmed ATE/7770/12we attached our Github link which includes Documentation, Readme and Demo video inside Demo.md
+   1.Kena Biratu ATE/1342/12
+2.Lina Abdulfetha ATE/7007/12
+3.Winta Ataklti ATE/3676/12
+4.Zufan Elias ATE/0073/12
+5.Yared Assefa ATE/4024/12
+6.Eyuel Mekonnen ATE/9108/13   7.Bereket Tekle ATE/9945/12
+8.Kemal mohmmed ATE/7770/12we attached our Github link which includes Documentation, Readme and Demo video inside Demo.md
+   1.Kena Biratu ATE/1342/12
+2.Lina Abdulfetha ATE/7007/12
+3.Winta Ataklti ATE/3676/12
+4.Zufan Elias ATE/0073/12
+5.Yared Assefa ATE/4024/12
+6.Eyuel Mekonnen ATE/9108/13   7.Bereket Tekle ATE/9945/12
+8.Kemal mohmmed ATE/7770/12we attached our Github link which includes Documentation, Readme and Demo video inside Demo.md
+   1.Kena Biratu ATE/1342/12
+2.Lina Abdulfetha ATE/7007/12
+3.Winta Ataklti ATE/3676/12
+4.Zufan Elias ATE/0073/12
+5.Yared Assefa ATE/4024/12
+6.Eyuel Mekonnen ATE/9108/13   7.Bereket Tekle ATE/9945/12
+8.Kemal mohmmed ATE/7770/12we attached our Github link which includes Documentation, Readme and Demo video inside Demo.md
+   1.Kena Biratu ATE/1342/12
+2.Lina Abdulfetha ATE/7007/12
+3.Winta Ataklti ATE/3676/12
+4.Zufan Elias ATE/0073/12
+5.Yared Assefa ATE/4024/12
+6.Eyuel Mekonnen ATE/9108/13   7.Bereket Tekle ATE/9945/12
+8.Kemal mohmmed ATE/7770/12we attached our Github link which includes Documentation, Readme and Demo video inside Demo.md
+   1.Kena Biratu ATE/1342/12
+2.Lina Abdulfetha ATE/7007/12
+3.Winta Ataklti ATE/3676/12
+4.Zufan Elias ATE/0073/12
+5.Yared Assefa ATE/4024/12
+6.Eyuel Mekonnen ATE/9108/13   7.Bereket Tekle ATE/9945/12
+8.Kemal mohmmed ATE/7770/12we attached our Github link which includes Documentation, Readme and Demo video inside Demo.md
+   1.Kena Biratu ATE/1342/12
+2.Lina Abdulfetha ATE/7007/12
+3.Winta Ataklti ATE/3676/12
+4.Zufan Elias ATE/0073/12
+5.Yared Assefa ATE/4024/12
+6.Eyuel Mekonnen ATE/9108/13   7.Bereket Tekle ATE/9945/12
+8.Kemal mohmmed ATE/7770/12we attached our Github link which includes Documentation, Readme and Demo video inside Demo.md
+   1.Kena Biratu ATE/1342/12
+2.Lina Abdulfetha ATE/7007/12
+3.Winta Ataklti ATE/3676/12
+4.Zufan Elias ATE/0073/12
+5.Yared Assefa ATE/4024/12
+6.Eyuel Mekonnen ATE/9108/13   7.Bereket Tekle ATE/9945/12
+8.Kemal mohmmed ATE/7770/12we attached our Github link which includes Documentation, Readme and Demo video inside Demo.md
+   1.Kena Biratu ATE/1342/12
+2.Lina Abdulfetha ATE/7007/12
+3.Winta Ataklti ATE/3676/12
+4.Zufan Elias ATE/0073/12
+5.Yared Assefa ATE/4024/12
+6.Eyuel Mekonnen ATE/9108/13   7.Bereket Tekle ATE/9945/12
+8.Kemal mohmmed ATE/7770/12<<<<<<< HEAD
 # MiniGit
 
 MiniGit is a lightweight, custom version control system inspired by Git. It provides essential VCS features—repository initialization, staging, committing, branching, merging, diffing, tagging, and status checks—without external dependencies.
@@ -113,4 +274,4 @@ minigit status
 | `minigit rev-parse [--wyag-type] <name>` | Resolve refs/abbrev. SHAs                      |                              |
 | `minigit check-ignore <paths>`           | Check ignore rules against paths               |                              |
 # MiniGit_DSA_Project-
-MiniGit - A lightweight version control system written in C++
+MiniGit - A lightweight version control system written in python 
